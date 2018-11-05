@@ -12,7 +12,7 @@ from .schema import SCORING_SCHEMA
 # Data access functions
 
 # Input data
-S3_BUCKET = "skafos.example.data"
+S3_BUCKET = "skafos-churn-model-demo"
 TRAINING_FILE_NAME = "TelcoChurnData/WA_Fn-UseC_-Telco-Customer-Churn_train.csv"
 SCORING_FILE_NAME = "TelcoChurnData/WA_Fn-UseC_-Telco-Customer-Churn_score.csv"
 
